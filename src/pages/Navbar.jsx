@@ -97,7 +97,7 @@ export default Navbar;
 
 // Styled Components actualizados
 const NavbarContainer = styled.nav`
-  background-color: #556B2F !important;
+  background-color: #1100ffff !important;
   padding: 0.5rem 1rem;
 `;
 

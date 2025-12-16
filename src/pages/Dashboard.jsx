@@ -41,7 +41,7 @@ export default function Dashboard() {
               onClick={manejarAgregarProducto}
               style={{
                 padding: '10px 20px',
-                background: '#28a745',
+                background: '#00ffffff',
                 color: 'white',
                 textDecoration: 'none',
                 borderRadius: '4px',
